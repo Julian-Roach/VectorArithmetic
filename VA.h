@@ -3,7 +3,7 @@
 //
 // Vector Arithmetic for C++
 //
-// This header file contains bool - , integer - , and float vector types for 2 up to 4 dimensions.
+// This header file contains bool, integer, and float vector types for 2 up to 4 dimensions.
 //
 // Concepts such as scaling, vector addition, magnitude and dot products have been taken into consideration.
 //
