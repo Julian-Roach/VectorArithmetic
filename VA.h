@@ -1,5 +1,9 @@
-#pragma once
 
+//
+// THIS ENTIRE NOTICE OUGHT NOT BE REMOVED FROM ANY PROJECT UTILIZING ANY OF THE CODE BELOW.
+// PROJECTS ARE, HOWEVER, ALLOWED TO CUT OFF PARTS OF THE FUNCTIONAL CODE IN ACCORDANCE WITH NECESSITY.
+//
+// original code: https://github.com/Julian-Roach/VectorArithmetic
 //
 // Vector Arithmetic for C++
 //
@@ -14,6 +18,8 @@
 // BEFORE including the header file. The vectors are rounded component - wise to nearest integer, which
 // requires a heavier library <cmath> to be included - avoided by default.
 //
+
+#pragma once
 
 #ifdef ROUNDING_VECTORS
 #include <cmath>
